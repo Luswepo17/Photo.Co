@@ -1,0 +1,26 @@
+export const SliderData = [
+  {
+    image:
+      "https://img.freepik.com/premium-photo/bright-autumn-sycamore-leaves_516833-253.jpg",
+  },
+  {
+    image:
+      "https://img.freepik.com/free-photo/closeup-plant_181624-3826.jpg?w=900&t=st=1689854808~exp=1689855408~hmac=978ce60199b01eb77e5385ffbe1597f7e8cd69365c164bdd37b79b67830https://img.freepik.com/free-photo/selective-focus-shot-brown-leaves-tree-branch-maksimir-park-zagreb-croatia_181624-24554.jpg?w=1380&t=st=1689854877~exp=1689855477~hmac=0310e7fb722a8be541388c2ecad105f6b5cc10cdd6ecf037c33a42a1af21acafb983e",
+  },
+  {
+    image:
+      "https://img.freepik.com/free-photo/vinatge-camera-with-bokeh-nature-blackground_1150-18221.jpg?size=626&ext=jpg&ga=GA1.2.783449613.1688718634&semt=ais",
+  },
+  {
+    image:
+      "https://img.freepik.com/free-photo/beautiful-view-greenery-bridge-forest-perfect-background_181624-17827.jpg?w=900&t=st=1689854643~exp=1689855243~hmac=0857d2b2ab292b6f9b1d2cd4400b0800bdcbaa906e6594828ac218801dc007d4",
+  },
+  {
+    image:
+      "https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg?w=900&t=st=1689854687~exp=1689855287~hmac=cb82a039f7754bbc868a980c56838c4a8320d2b590af61f6277a88df123d77d9",
+  },
+  {
+    image:
+      "https://img.freepik.com/free-photo/beautiful-scenery-rock-formations-by-sea-queens-bath-kauai-hawaii-sunset_181624-36857.jpg?w=900&t=st=1689854715~exp=1689855315~hmac=cf14a85be0258dce8404272c1c60c2ecd13c046a84d5aa395996023d94cf96ff",
+  },
+];
